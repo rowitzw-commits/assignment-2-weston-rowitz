@@ -1,0 +1,4 @@
+2. two things that ai did well
+they broke down the problems nicly and labeled that work so it was easy to understand.
+2. what are two potential problems
+the code is still complex so if it messes up one vatrible that whole program could be gone and also the code can divide by zero.
